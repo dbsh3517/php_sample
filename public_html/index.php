@@ -1,6 +1,6 @@
 <?php
 
-echo "hello, ごごごごごごごごごごご";
+echo "hello, あいうえおおおおおおお！";
 echo "hoge";
 
 ?>
